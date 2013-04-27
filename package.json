@@ -1,5 +1,5 @@
 {
-  "name": "strang",
+  "name": "libstrang",
   "version": "0.0.0",
   "description": "Matrix library inspired by Linear Algebra and Its Applications by Gilbert Strang",
   "main": "index.js",
