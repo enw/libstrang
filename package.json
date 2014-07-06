@@ -1,13 +1,13 @@
 {
   "name": "libstrang",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Matrix library inspired by Linear Algebra and Its Applications by Gilbert Strang",
   "main": "index.js",
   "dependencies": {
-      "underscore":"1.4.4"
+    "underscore": "1.4.4"
   },
   "scripts": {
-   "test": "node ./test/test.js "
+    "test": "node ./test/test.js "
   },
   "repository": "",
   "keywords": [
